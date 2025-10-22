@@ -59,13 +59,13 @@
 
 .name {
     position: absolute;
-    top: 55%;
+    top: 60%;
     left: 43%;
 }
 
 .patronymic {
     position: absolute;
-    top: 70.5%;
+    top: 65.5%;
     left: 51%;
 }
 
@@ -77,8 +77,8 @@
 
 .birthday {
     position: absolute;
-    top: 76.4%;
-    left: 57%;
+    top: 69.5%;
+    left: 43.5%;
     letter-spacing: 0;
 }
 
