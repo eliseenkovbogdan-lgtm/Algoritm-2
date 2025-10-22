@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <div class="all-nav">
+        <div class="black-nav">
+            <ul class="nav">
+                <li><a href="index.html">Алгоритимческая задача</a></li>
+                <li><a href="passport.html" class="main-link">Паспорт</a></li>
+            </ul>
+        </div>
+
+
+    <div class="first-part">
+        <h3>ИЗМЕНЯЕМ КИРИЛЛИЦУ НА ЛАТИНИЦУ ПО КЛИКУ</h3>
+
+        <div class="passport" id="passport">
+
+            <p class="issuing-passport passport-text" id="issuing-passport">УМВД РОССИИ ПО ГОРОДУ САНКТ-ПЕТЕРБУРГ</p>
+            
+            <p class="issuing-date passport-text">05.05.2025</p>
+
+            <p class="unit-code passport-text">222-777</p>
+
+            <img src="img/подпись-1.png" alt="signature" class="signature">
+
+            <img src="img/подпись-2.png" alt="my-signature" class="my-signature">
+
+            <p class="surname passport-text" id="surname">ЕЛИСЕЕНКОВ</p>
+
+            <p class="name passport-text" id="name">БОГДАН</p>
+
+            <p class="patronymic passport-text" id="patronymic">ДМИТРИЕВИЧ</p>
+
+            <p class="gender passport-text" id="gender">МУЖ.</p>
+
+            <p class="birthday passport-text">17.07.2005</p>
+
+            <p class="city passport-text" id="city">Г. САНКТ-ПЕТЕРБУРГ</p>
+
+            <img src="img/фото-на-паспорт.jpg" alt="passport-photo" class="passport-photo">
+
+        </div>
+
+        <button id="change" class="change">Click to show English version</button>
+    </div>
+    
+    <div class="second-part">
+        <h3>DOM_JS. СЧИТЫВАЕМ ИНФОРМАЦИЮ ИЗ DOM</h3>
+
+        <img src="img/dom-js.png" alt="dom-js" id="image">
+
+        <button class="change increase" id="increase">Нажмите,<br>чтобы увеличить</button>
+    </div>
+
+    <script src="js/part_1_8.js"></script>
+
+</body>
+</html>
