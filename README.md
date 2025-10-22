@@ -1,1 +1,1 @@
-# Algoritm-2
+ https://eliseenkovbogdan-lgtm.github.io/Algoritm-2/
