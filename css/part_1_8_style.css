@@ -26,14 +26,14 @@
 
 .issuing-date {
     position: absolute;
-    top: 22%;
-    left: 26%;
+    top: 20%;
+    left: 32%;
     letter-spacing: 0;
 } 
 
 .unit-code {
     position: absolute;
-    top: 22%;
+    top: 20%;
     left: 58%;
 }
 
@@ -71,14 +71,14 @@
 
 .gender {
     position: absolute;
-    top: 75.4%;
+    top: 69.5%;
     left: 43.5%;
 }
 
 .birthday {
     position: absolute;
     top: 69.5%;
-    left: 43.5%;
+    left: 53%;
     letter-spacing: 0;
 }
 
@@ -97,7 +97,7 @@
 .passport-photo {
     position: absolute;
     top: 61.9%;
-    left: 18.4%;
+    left: 20%;
     height: 182px;
 }
 
