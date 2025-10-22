@@ -9,9 +9,9 @@ let gender = document.getElementById('gender');
 let city = document.getElementById('city');
 let area = document.getElementById('area');
 
-const eng = ['THE MINISTRY OF INTERNAL AFFAIRS <br> OF RUSSIA IN THE KALUGA REGION', 'FEDOSOVA', 'OLESYA', 'STANISLAVOVNA', 'F', 'ODINTSOVO', '&nbsp;MOSCOW OBLAST'];
+const eng = ['THE MINISTRY OF INTERNAL AFFAIRS <br> OF RUSSIA IN THE SITY SAINT-PETERSBURG', 'ELISEENKOV', 'BOGDAN', 'DMITRIVICH', 'M', 'SAINT-PETERSBURG', '&nbsp;SAINT-PETERSBURG'];
 
-const rus = ['УМВД РОССИИ ПО КАЛУЖСКОЙ ОБЛАСТИ', 'ФЕДОСОВА', 'ОЛЕСЯ', 'СТАНИСЛАВОВНА', 'ЖЕН.', 'Г. ОДИНЦОВО', 'МОСКОВСКАЯ ОБЛАСТЬ']
+const rus = ['УМВД РОССИИ ПО ГОРОДУ САНКТ-ПЕТЕРБУРГ', 'ЕЛИСЕЕНКОВ', 'БОГДАН', 'ДМИТРИЕВИЧ', 'МУЖ.', 'Г. САНК-ПЕТЕРБУРГ', 'Г. САНК-ПЕТЕРБУРГ']
 
 function changeLang() {
     if (btn.innerText == 'Click to show English version') {
