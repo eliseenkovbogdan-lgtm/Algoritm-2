@@ -53,14 +53,14 @@
 
 .surname {
     position: absolute;
-    top: 56.7%;
+    top: 50.7%;
     left: 53%;
 }
 
 .name {
     position: absolute;
-    top: 50.7%;
-    left: 45%;
+    top: 45%;
+    left: 38%;
 }
 
 .patronymic {
@@ -71,20 +71,20 @@
 
 .gender {
     position: absolute;
-    top: 72.4%;
+    top: 75.4%;
     left: 43.5%;
 }
 
 .birthday {
     position: absolute;
-    top: 72.4%;
+    top: 76.4%;
     left: 57%;
     letter-spacing: 0;
 }
 
 .city {
     position: absolute;
-    top: 76%;
+    top: 79%;
     left: 51%;
 }
 
